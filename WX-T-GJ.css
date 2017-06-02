@@ -55,12 +55,13 @@
      	right: 50px;
      }
      .right li{
-     	height: 20px;
-     	width: 20px;
      	border-radius: 10px;
-     	background-color: gray;
      	margin-top:10px;
      	cursor: pointer;
+     }
+     .right li a{
+        color:gray;
+        font-size: 20px;
      }
      .right li:hover{
      	background-color: #eb6100;
